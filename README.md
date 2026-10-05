@@ -16,11 +16,11 @@ The homepage focuses on presenting Fermor as a modern financial product with a c
 
 ### Desktop
 
-![Fermor Desktop Homepage](./screenshots/desktop.png)
+![Fermor Desktop Homepage](./desktop.png)
 
 ### Mobile
 
-![Fermor Mobile Homepage](./screenshots/mobile.png)
+![Fermor Mobile Homepage](./mobile.jpeg)
 
 **Understand → Act → Grow**
 

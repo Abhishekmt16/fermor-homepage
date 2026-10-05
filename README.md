@@ -12,6 +12,16 @@ This project was created as a frontend development assignment for Fermor.
 
 The homepage focuses on presenting Fermor as a modern financial product with a clear visual hierarchy and a simple user journey:
 
+## Screenshots
+
+### Desktop
+
+![Fermor Desktop Homepage](./screenshots/desktop.png)
+
+### Mobile
+
+![Fermor Mobile Homepage](./screenshots/mobile.png)
+
 **Understand → Act → Grow**
 
 The design aims to make financial information feel approachable without overwhelming the user.
@@ -63,3 +73,12 @@ fermor-homepage/
 ├── package.json
 ├── README.md
 └── ...
+
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Abhishekmt16/fermor-homepage.git
+cd fermor-homepage

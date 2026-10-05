@@ -1,36 +1,65 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Fermor — Financial Clarity Homepage
 
-## Getting Started
+A responsive homepage concept for Fermor, designed around the idea of making personal finance feel clearer, simpler, and more actionable.
 
-First, run the development server:
+## Live Demo
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+https://fermor-homepage-ab.vercel.app/
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Overview
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This project was created as a frontend development assignment for Fermor.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The homepage focuses on presenting Fermor as a modern financial product with a clear visual hierarchy and a simple user journey:
 
-## Learn More
+**Understand → Act → Grow**
 
-To learn more about Next.js, take a look at the following resources:
+The design aims to make financial information feel approachable without overwhelming the user.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Responsive desktop and mobile layout
+- Mobile navigation menu
+- Hero section with financial dashboard UI
+- Product overview section
+- Financial overview cards
+- Savings and investment visualization
+- Fermor insight card
+- "Why Fermor" value proposition section
+- Call-to-action section
+- Smooth scrolling navigation
+- Hover interactions and subtle UI animations
+- Responsive typography and spacing
 
-## Deploy on Vercel
+## Tech Stack
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Vercel
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Design Approach
+
+The design uses a minimal, finance-focused visual language:
+
+- Off-white background for a clean appearance
+- Dark typography for readability
+- Green accent color associated with financial growth
+- Large, clear typography for hierarchy
+- Dashboard-style UI to make the product concept tangible
+- Minimal interactions to maintain a trustworthy and professional feel
+
+## Project Structure
+
+```text
+fermor-homepage/
+├── public/
+├── src/
+│   └── app/
+│       ├── globals.css
+│       ├── layout.tsx
+│       └── page.tsx
+├── package.json
+├── README.md
+└── ...
